@@ -9,3 +9,4 @@
 ![calling function](https://user-images.githubusercontent.com/70091044/92519456-a6d4df80-f222-11ea-8117-bd28443ce2ac.PNG)
 ## Declaring functions that need information
 ### Sometimes a function needs specific information to perform its task. In such cases, when you declare the function you give it *parameters*. Inside the function, the parameters act like variables
+![function info](https://user-images.githubusercontent.com/70091044/92520103-c1f41f00-f223-11ea-887b-e2380eda44e0.PNG)
